@@ -1,0 +1,15 @@
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\bin\Debug\Selenium-test.exe.config
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\bin\Debug\Selenium-test.exe
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\bin\Debug\Selenium-test.pdb
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\bin\Debug\MetroFramework.Design.dll
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\bin\Debug\MetroFramework.dll
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\bin\Debug\WebDriver.dll
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\obj\Debug\Selenium-test.csprojAssemblyReference.cache
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\obj\Debug\Selenium_test.Form1.resources
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\obj\Debug\Selenium_test.Properties.Resources.resources
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\obj\Debug\Selenium-test.csproj.GenerateResource.cache
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\obj\Debug\Selenium-test.csproj.CoreCompileInputs.cache
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\obj\Debug\Selenium-test.csproj.CopyComplete
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\obj\Debug\Selenium-test.exe
+C:\Users\cang3\Desktop\Selenium-test\Selenium-test\obj\Debug\Selenium-test.pdb
